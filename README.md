@@ -31,6 +31,7 @@
 	
 ## Dataset
 * The dataset can be downloaded from Backblaze under the 2019 section [here](https://www.backblaze.com/b2/hard-drive-test-data.html#downloading-the-raw-hard-drive-test-data)
+* Execute the Backblaze-parser.py script to create the necessary CSV files.
 
 
 	
