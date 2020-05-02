@@ -32,6 +32,7 @@
 ## Dataset
 * The dataset can be downloaded from Backblaze under the 2019 section [here](https://www.backblaze.com/b2/hard-drive-test-data.html#downloading-the-raw-hard-drive-test-data)
 * Execute the Backblaze-parser.py script to create the necessary CSV files.
+* Alternatively, select the [SQL Dump](https://github.com/SulmanK/Predicting-Hard-Drive-Failure/blob/master/predict_hd_failure(sql%20dump).rar) file, which was created using PostgreSQL by me.
 
 
 	
