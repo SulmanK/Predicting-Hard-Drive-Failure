@@ -1,7 +1,7 @@
 # Predicting Hard Drive Failure
 
 <p align="center">
-  <img width="600" height="406" src="assets/World_of_Warcraft_logo.jpg">
+  <img width="600" height="406" src="assets/Backblaze_logo.png">
 </p>
 
 
@@ -28,6 +28,9 @@
 	* [Project Report](https://github.com/SulmanK/Predicting-Hard-Drive-Failure/blob/master/Predicting%20Hard%20Drive%20Failure_Report.pdf)
 	* [Parser (Preprocessing Script)](https://github.com/SulmanK/Predicting-Hard-Drive-Failure/blob/master/Backblaze-parser.py)
 	* [Parser (Preprocessing Jupyter Notebook)](https://github.com/SulmanK/Predicting-Hard-Drive-Failure/blob/master/Preprocessing.ipynb)
+	
+## Dataset
+* The dataset can be downloaded from Backblaze under the 2019 section [here](https://www.backblaze.com/b2/hard-drive-test-data.html#downloading-the-raw-hard-drive-test-data)
 
 
 	
